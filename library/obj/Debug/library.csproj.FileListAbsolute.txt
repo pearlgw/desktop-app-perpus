@@ -1,0 +1,39 @@
+c:\users\user\documents\visual studio 2015\Projects\library\library\bin\Debug\library.exe.config
+c:\users\user\documents\visual studio 2015\Projects\library\library\bin\Debug\library.exe
+c:\users\user\documents\visual studio 2015\Projects\library\library\bin\Debug\library.pdb
+c:\users\user\documents\visual studio 2015\Projects\library\library\obj\Debug\library.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\library\library\obj\Debug\library.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\library\library\obj\Debug\library.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\library\library\obj\Debug\library.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\library\library\obj\Debug\library.exe
+c:\users\user\documents\visual studio 2015\Projects\library\library\obj\Debug\library.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.tambahbuku.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.lihatbuku.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.tambahsiswa.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.lihatsiswa.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.peminjaman.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.pengembalian.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.detailbuku.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.login.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.splash.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\library\library\obj\Debug\library.denda.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\bin\Debug\library.exe.config
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\bin\Debug\library.exe
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\bin\Debug\library.pdb
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.csproj.AssemblyReference.cache
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.denda.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.detailbuku.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.Form1.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.lihatbuku.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.lihatsiswa.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.login.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.peminjaman.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.pengembalian.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.Properties.Resources.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.splash.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.tambahbuku.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.tambahsiswa.resources
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.csproj.GenerateResource.cache
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.exe
+E:\ggggggggggggggggggggg\SSD GAYUHHHHHH\DOCUMENT MEI DARI SSD\Visual Studio 2015\Projects\library\library\obj\Debug\library.pdb
